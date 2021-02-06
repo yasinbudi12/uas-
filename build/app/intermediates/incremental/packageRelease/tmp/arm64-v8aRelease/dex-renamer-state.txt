@@ -1,0 +1,4 @@
+#Mon Feb 01 14:28:56 ICT 2021
+base.0=C\:\\Users\\Praz\\Documents\\dev\\Flutter\\flutter_uas_pam\\build\\app\\intermediates\\transforms\\r8\\release\\0\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
